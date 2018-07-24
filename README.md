@@ -8,7 +8,7 @@ Managing personal identities in a digitally networked world has proven to be fra
 
 > We shape our tools and thereafter our tools shape us.
 
-In an effort to design tools that can help bring people together to collaborate on the work of becoming better humans and building a better world, the design process should recognize the need for resilience: things will go wrong. [Our job as designers](https://medium.com/@tubikstudio/design-is-a-job-30-honest-quotes-by-mike-monteiro-41e44e307950) is to anticipate problems and create tools, processes, systems and experiences that we can stand behind and [take responsibility](https://muledesign.com/2017/07/a-designers-code-of-ethics) for.
+In an effort to design tools that can help bring people together to collaborate on the work of becoming better humans and building a better world, the design process should recognize the need for resilience: things will go wrong. [Our job as designers](https://medium.com/@tubikstudio/design-is-a-job-30-honest-quotes-by-mike-monteiro-41e44e307950) is to anticipate problems and create tools, processes, systems and experiences that we can [stand behind](https://www.intercom.com/blog/mule-design-mike-monteiro/) and [take responsibility](https://muledesign.com/2017/07/a-designers-code-of-ethics) for.
 
 ## Identity
 
