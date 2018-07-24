@@ -8,7 +8,7 @@ Managing personal identities in a digitally networked world has proven to be fra
 
 > We shape our tools and thereafter our tools shape us.
 
-In an effort to design tools that can help bring people together to collaborate on the work of becoming better humans and building a better world, the design process should recognize the need for resilience: things will go wrong. Our job as designers is to anticipate problems and create tools, processes, systems and experiences that we can stand behind and take responsibility for.
+In an effort to design tools that can help bring people together to collaborate on the work of becoming better humans and building a better world, the design process should recognize the need for resilience: things will go wrong. [Our job as designers](https://medium.com/@tubikstudio/design-is-a-job-30-honest-quotes-by-mike-monteiro-41e44e307950) is to anticipate problems and create tools, processes, systems and experiences that we can stand behind and [take responsibility](https://muledesign.com/2017/07/a-designers-code-of-ethics) for.
 
 ## Identity
 
@@ -22,7 +22,7 @@ Humans have become addicted to identities, behaviours, systems, and technologies
 
 Michal Korzonek writes about becoming an [effective habit-building machine](https://betterhumans.coach.me/draft-how-to-hack-your-brain-to-achieve-consistency-that-lasts-7f5fdc520d28).
 
-> The authors of Stealing Fire suggest that one of the ways we can increase our productivity is to intentionally repurpose our psychology to work like an intuitive dashboard —a sort of user interface (UI).
+> The authors of [*Stealing Fire*](http://stealingfirebook.com/) suggest that one of the ways we can increase our productivity is to intentionally repurpose our psychology to work like an intuitive dashboard —a sort of user interface (UI).
 >
 > These researchers were studying non-ordinary states of consciousness in an attempt to understand how triggering those states intentionally might offer useful tools for boosting performance. Their metaphor for using these states was that we could use them in the same way that apps on your phone are used to accomplish specific tasks—without requiring that you re-wire the underlying operating system (OS).
 >
@@ -32,11 +32,11 @@ Michal Korzonek writes about becoming an [effective habit-building machine](http
 >
 > An example: if you feel depressed and unmotivated, you have two choices:
 >
-> (1) do nothing and feel overwhelmed with the complexity of your OS (and hope it will just miraculously fix itself), or
+> 1. do nothing and feel overwhelmed with the complexity of your OS (and hope it will just miraculously fix itself), or
 >
-> (2) simply run another “app”, such as engaging in physical exercise or meditation (which are scientifically proven to have a positive impact on our mood).
+> 2. simply run another “app”, such as engaging in [physical exercise](https://www.cambridge.org/core/journals/public-health-nutrition/article/influence-of-physical-activity-on-mental-wellbeing/3C363AEECE5C8CAC490A585BA29E6BF8) or [meditation](https://www.psychologytoday.com/us/blog/feeling-it/201309/20-scientific-reasons-start-meditating-today) (which are scientifically proven to have a positive impact on our mood).
 >
-> Now, although this sounds great in theory, the problem with this approach is that most of us will only engage in activities such as exercise and meditation after we feel better, rather than in order to feel better.
+> Now, although this sounds great in theory, the problem with this approach is that most of us will only engage in activities such as exercise and meditation *after* we feel better, rather than *in order to* feel better.
 >
 > This was it. I knew my problem, and I had a solution. In order to make it work, I just had to find a way to run those apps whenever my OS was facing a crisis. I needed a good UI to put those apps right in front of me when I needed them.
 >
