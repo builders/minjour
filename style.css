@@ -51,3 +51,8 @@ h1 {
   top: 0;
   left: 40px;
 }
+
+.day .travel span[itemprop="addressLocality"]:before {
+  content: "⇨";
+  margin-right: 6px;
+}
