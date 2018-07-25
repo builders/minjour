@@ -30,10 +30,20 @@ h1 {
   border: 1px solid black;
 }
 
+/*
 .day p,
 .day ul,
 .day li {
   display: none;
+}
+*/
+
+.day ol {
+  padding: 0;
+}
+
+.day li {
+  list-style: none;
 }
 
 .day .travel {
