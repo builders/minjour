@@ -31,24 +31,6 @@ h1 {
   position: relative;
 }
 
-.day .remember {
-  font-weight: normal;
-  font-size: 18px;
-  width: 180px;
-  height: 180px;
-  padding: 40px;
-  margin: 0;
-  border: 1px solid black;
-}
-
-/*
-.day p,
-.day ul,
-.day li {
-  display: none;
-}
-*/
-
 .day ol {
   padding: 0;
   margin: 0;
@@ -66,15 +48,24 @@ h1 {
   display: none;
 }
 
+.day .remember {
+  font-weight: normal;
+  font-size: 18px;
+  width: 180px;
+  height: 180px;
+  padding: 40px;
+  margin: 0;
+  border: 1px solid black;
+}
 
-.day .travel span[itemprop="addressLocality"] {
+.day .travel {
   display: block;
   position: absolute;
   top: 0;
   left: 40px;
 }
 
-.day .travel span[itemprop="addressLocality"]:before {
+.day .travel:before {
   content: "⇨";
   margin-right: 6px;
 }
