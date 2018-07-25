@@ -16,7 +16,9 @@ h1 {
 }
 
 .day .date,
-.day .author {
+.day .author,
+.day .headline,
+.entry {
   display: none;
 }
 
