@@ -11,7 +11,7 @@
   <body>
     <main id="journal">
       <h1>Minimalist Journal</h1>
-      <section id="days">
+      <section id="days" itemprop="events" itemscope itemtype="http://schema.org/Events">
         <article class="day" itemid="https://www.minjour.com/michalkorzonek/20180613/" itemscope itemtype="http://schema.org/SocialMediaPosting">
           <h1 itemprop="headline">What did I do today?</h1>
           <p>Date posted: June 13, 2018 <meta itemprop="datePublished" content="2018-06-13" /></p>
@@ -20,24 +20,30 @@
               <span itemprop="name"><a itemprop="url" href="https://www.minjour.com/michalkorzonek/">Michal Korzonek</a></span>
             </span>
           </p>
-          <ol>
-            <li class="remember">What did I do today? <span itemprop="description">Wrote an article about squares</span></li>
-            <li class="days-lived">Number of days since birth: <span itemprop="duration" content="P10642D">10642</span></li>
-            <li class="destination" itemprop="location" itemscope itemtype="http://schema.org/Place">Where I traveled today: <span itemprop="addressLocality">Koh Phangan</span></li>
-            <li class="dream-remembered">Remembered dream: <span itemprop="value" content="True">Yes</span></li>
-            <li class="dream-lucid">Lucid dream: <span itemprop="value" content="True">Yes</span></li>
-            <li class="sleep-problems">Problems sleeping: <span itemprop="value" content="True">×</span></li>
-            <li class="wake-time">Wake time: <time datetime="2018-06-13 06:15">0615</time></li>
-            <li class="sleep-time">Sleep time: <time datetime="2018-06-13 22:00">2200</time></li>
-            <li class="self-time">Self time: <span itemprop="value" content="True">•</span></li>
-            <li class="meaningful-interactions">Meaningful interactions: <span itemprop="number">2</span></li>
-            <li class="wrote-letter">Wrote a handwritten letter: <span itemprop="value" content="True">✉</span></li>
-            <li class="act-of-compassion">Acted out of compassion: <span itemprop="value" content="True">♥</span></li>
-            <li class="learning">
-              <span itemscope itemtype="http://schema.org/ItemList">
-                <span itemprop="name">Learning</span>:
-                <span itemprop="itemListElement">R</span><span itemprop="itemListElement">D</span><span itemprop="itemListElement">L</span>
-              </span>
+          <ol itemprop="activities" itemprop="event" itemscope itemtype="http://schema.org/Event">
+            <li class="remember" itemprop="post" itemscope itemtype="http://schema.org/SocialMediaPosting">What did I do today? <span itemprop="description">Wrote an article about squares</span></li>
+            <li class="days-lived" itemprop="author" itemscope itemtype="http://schema.org/Person">Number of days since birth: <span itemprop="duration" content="P10642D">10642</span></li>
+            <li class="destination" itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Where I traveled today: <span itemprop="addressLocality">Koh Phangan</span></span></li>
+            <li class="dream-remembered" itemprop="activity" itemscope itemtype="http://schema.org/PropertyValue"><span itemprop="name">Remembered dream</span>: <span itemprop="value" content="True">Yes</span></li>
+            <li class="dream-lucid" itemprop="activity" itemscope itemtype="http://schema.org/PropertyValue"><span itemprop="name">Lucid dream</span>: <span itemprop="value" content="True">Yes</span></li>
+            <li class="sleep-problems" itemprop="activity" itemscope itemtype="http://schema.org/PropertyValue"><span itemprop="name">Problems sleeping</span>: <span itemprop="value" content="True">×</span></li>
+            <li class="wake-time" itemprop="activity" itemscope itemtype="http://schema.org/PropertyValue"><span itemprop="name">Wake time</span>: <time datetime="2018-06-13 06:15">0615</time></li>
+            <li class="sleep-time" itemprop="activity" itemscope itemtype="http://schema.org/PropertyValue"><span itemprop="name">Sleep time</span>: <time datetime="2018-06-13 22:00">2200</time></li>
+            <li class="self-time" itemprop="activity" itemscope itemtype="http://schema.org/PropertyValue"><span itemprop="name">Self time</span>: <span itemprop="value" content="True">•</span></li>
+            <li class="meaningful-interactions" itemprop="activity" itemscope itemtype="http://schema.org/PropertyValue"><span itemprop="name">Meaningful interactions</span>: <span itemprop="number">2</span></li>
+            <li class="wrote-letter" itemprop="activity" itemscope itemtype="http://schema.org/PropertyValue"><span itemprop="name">Wrote a handwritten letter</span>: <span itemprop="value" content="True">✉</span></li>
+            <li class="act-of-compassion" itemprop="activity" itemscope itemtype="http://schema.org/PropertyValue"><span itemprop="name">Acted out of compassion</span>: <span itemprop="value" content="True">♥</span></li>
+            <li class="learning" itemscope itemtype="http://schema.org/ItemList">
+              <span itemprop="name">Learning</span>:
+              <span itemprop="itemListElement"><span itemprop="value" title="Reading">R</span><span itemprop="value" title="Watching a documentary">D</span><span itemprop="value" title="Other forms of learning">L</span></span>
+            </li>
+            <li class="exercise" itemscope itemtype="http://schema.org/ItemList">
+              <span itemprop="name">Physical exercise</span>:
+              <span itemprop="itemListElement"><span itemprop="value" title="Yoga">Y</span><span itemprop="value" title="Swimming">S</span><span itemprop="value" title="Hiking">H</span><span itemprop="value" title="Cycling">O</span><span itemprop="value" title="Workout">E</span><span itemprop="value" title="Run">R</span><span itemprop="value" title="Dance">D</span></span>
+            </li>
+            <li class="nutrition" itemscope itemtype="http://schema.org/ItemList">
+              <span itemprop="name">Nutrition</span>:
+              <span itemprop="itemListElement"><span itemprop="value" title="Fruits">F</span><span itemprop="value" title="Vegetables">V</span><span itemprop="value" title="Nuts">N</span><span itemprop="value" title="Animal products">A</span><span itemprop="value" title="Coffee">C</span></span>
             </li>
           </ol>
           <div itemprop="sharedContent" itemscope itemtype="http://schema.org/WebPage">
@@ -104,7 +110,7 @@
                 },
                 "startDate": "2018-06-13",
               }
-              "activities": [
+              "activity": [
                 {
                   "@type": "PropertyValue",
                   "name": "Remembered dream",
