@@ -16,7 +16,8 @@ h1 {
   height: 260px;
   margin: 40px auto;
   padding: 40px;
-  background: #eee;
+  /* background: #eee; */
+  position: relative;
 }
 
 .day h1 {
@@ -33,4 +34,20 @@ h1 {
 .day ul,
 .day li {
   display: none;
+}
+
+.day .travel {
+  display: block;
+}
+
+.day .label {
+  display: none;
+}
+
+
+.day .travel span[itemprop="addressLocality"] {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 40px;
 }
