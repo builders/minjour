@@ -31,12 +31,12 @@ h1 {
   position: relative;
 }
 
-.day .headline {
+.day .remember {
   font-weight: normal;
   font-size: 18px;
   width: 180px;
   height: 180px;
-  padding: 20px;
+  padding: 40px;
   margin: 0;
   border: 1px solid black;
 }
