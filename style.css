@@ -20,7 +20,7 @@ h1 {
   position: relative;
 }
 
-.day h1 {
+.day .headline {
   font-weight: normal;
   font-size: 18px;
   width: 180px;
