@@ -189,14 +189,14 @@ h1 {
 }
 
 .day .bowel-movements {
-  bottom: 40px;
+  top: 180px;
   right: 0;
   width: 40px;
   text-align: center;
 }
 
 .day .eating-late {
-  bottom: 64px;
+  top: 150px;
   right: 0;
   width: 40px;
   font-size: 22px;
@@ -204,14 +204,14 @@ h1 {
 }
 
 .day .raw-food-days {
-  bottom: 90px;
+  top: 132px;
   right: 0;
   width: 40px;
   text-align: center;
 }
 
 .day .overeating {
-  bottom: 120px;
+  top: 108px;
   right: 0;
   width: 40px;
   text-align: center;
