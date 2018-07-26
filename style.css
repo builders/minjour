@@ -95,24 +95,23 @@ h1 {
 }
 
 .day .self-time {
-  top: 45px;
+  top: 50px;
   left: 50px;
-  font-size: 24px;
 }
 
 .day .meaningful-interactions {
   top: 50px;
-  left: 65px;
+  left: 75px;
 }
 
 .day .wrote-letter {
   top: 50px;
-  left: 87px;
+  left: 97px;
 }
 
 .day .act-of-compassion {
   top: 50px;
-  left: 112px;
+  left: 122px;
 }
 
 .day .meditation {
