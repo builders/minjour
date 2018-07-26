@@ -60,11 +60,6 @@ h1 {
   left: 40px;
 }
 
-.day .travel:before {
-  content: "⇨";
-  margin-right: 6px;
-}
-
 .day .days-lived {
   transform: rotate(-90deg);
   transform-origin: 0 0;
@@ -111,21 +106,13 @@ h1 {
 }
 
 .day .wrote-letter {
-  top: 45px;
-  left: 85px;
-  font-size: 24px;
-}
-
-.day .wrote-letter {
-  top: 43px;
+  top: 50px;
   left: 87px;
-  font-size: 27px;
 }
 
 .day .act-of-compassion {
-  top: 45px;
+  top: 50px;
   left: 112px;
-  font-size: 21px;
 }
 
 .day .meditation {
@@ -136,7 +123,7 @@ h1 {
 
 .day .social-media {
   top: 45px;
-  right: 20px;
+  right: 15px;
   font-size: 21px;
 }
 
