@@ -96,9 +96,10 @@ h1 {
 }
 
 .day .sleep-problems {
-  top: 220px;
+  bottom: 0;
   left: 0;
   width: 40px;
+  font-size: 22px;
   text-align: center;
 }
 
@@ -195,9 +196,10 @@ h1 {
 }
 
 .day .eating-late {
-  bottom: 67px;
+  bottom: 64px;
   right: 0;
   width: 40px;
+  font-size: 22px;
   text-align: center;
 }
 
